@@ -1,0 +1,81 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Andada Pro', serif;
+}
+
+
+
+.container{
+    text-align: center;
+    border:1px solid red;
+    margin-top:90px;
+    width: 624px;
+    height: 84vh;
+    margin-left: 350px;
+    background-color:#A0A0A0;
+    /* opacity: ; */
+
+}
+
+table{
+    margin:auto;
+    /* border:2px solid black; */
+}
+
+
+button{
+    margin:5px;
+    font-size:23px;
+    width: 80px;
+    height: 63px;
+    background-color:darkgray;
+    opacity: 1.5;
+    border-radius: 10px;
+
+    
+}
+
+.input{
+    
+    border:2px solid black;
+    font-size:35px;
+    width:350px;
+    margin-left: 120px;
+    text-align: center;
+    background-color:#505050;
+    padding-right: 25px;
+    align-content: stretch;
+    
+}
+
+.zero button{
+    border:1px solid blue;
+    width: 164px;
+    /* padding: 20px; */
+}
+
+.AC button{
+    width: 164px;
+}
+
+/* .equal button{
+    height: 50px;
+} */
+
+#equal{
+    height: 50px;
+
+}
+
+#screen{
+    width: 351px;
+    height: 42px;
+    background-color:black;
+    color:white;
+    margin-bottom:5px;
+    padding: 8px;
+    font-size: 20px;
+    text-align: end;
+}
+
